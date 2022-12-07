@@ -1,0 +1,10 @@
+Supervised Machine Learning - Week 7: Final Project Part 2
+Inbox
+
+nelson wainaina
+Attachments
+Wed, Oct 12, 11:29 PM (20 hours ago)
+to Kirimi
+
+Use Scikit-learn/Keras to build a machine learning system based on the dataset you imported. You can use any combination of models we looked at in class: parametric models, linear/polynomial regression, logistic regression, neural networks, support vector machines, or trees. You may also use dimensionality reduction techniques. Lastly, you can also use clustering (k-means) if you are familiar with this technique. For classification models: be sure to print the results of your model using a classification matrix, precision and recall scores, and model loss (when these are applicable). For regression models, be sure to show the MSE or RMSE. You should implement a minimum of two contrasting techniques.
+Save the notebook as HTML and turn in as a zip
